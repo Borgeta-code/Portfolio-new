@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body::-webkit-scrollbar {
+  width: 0px;
+}
+
+.blue-stripe::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 33.33vw;
+  height: 300vh;
+  background-color: #0043c5;
+  z-index: -1;
+}
+
+.blue-stripe-sm::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 8vw;
+  height: 100%;
+  background-color: #0043c5;
+  z-index: -1;
+}
+
+.circle::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translate(-50%, -50%);
+  width: 16px;
+  height: 16px;
+  background-color: #0043c5;
+  border-radius: 100%;
+}
+
+.stroke-text {
+  -webkit-text-stroke: 2px #fff;
+}

@@ -1,0 +1,26 @@
+{
+  "introduction-section": {
+    "profession": "Fullstack Developer",
+    "presentation": "Hello, I'm Matheus, a Fullstack developer based in São Paulo, Brazil. Passion drives everything I do in the world of coding.",
+    "talk-to-me": "Talk to me",
+    "resume": "Resume"
+  },
+  "work-section": {
+    "title": "Work",
+    "role-corre": "Volunteer Mobile Developer",
+    "description-corre": "Corre was a revolutionary app that I had the pleasure of collaborating with. It aimed to connect everyone to a more promising future, acting as a platform for buying, selling, exchanging, and social impact. During my time on the team, I performed various functions ranging from identifying and fixing bugs to implementing new features. I worked closely with other team members, which allowed for a more efficient and effective development approach. In addition, I actively participated in discussions and code reviews, promoting quality and good programming practices. Some of my most notable achievements included identifying and resolving critical bugs, ensuring the stability and usability of the app. In addition, I implemented new features that added value to the app and expanded its capabilities.",
+    "startDate-corre": "June 2023",
+    "endDate-corre": "November 2023",
+    "role-integrade": "Fullstack Developer",
+    "description-integrade": "At Integrade, I had the opportunity to make significant contributions to the development and enhancement of various applications. My main responsibilities involved creating complete applications, from the user interface to the back-end. I excelled in understanding architectures and code patterns, effectively collaborating with the team to achieve our common goals. During my experience, I matured significantly as a developer, learning to navigate technical complexities, enhancing my problem-solving ability, and strengthening my ability to work effectively in a team. Some of my most notable achievements include the development of complete applications, demonstrating my skill as a Fullstack developer, the effective understanding and application of architectures and code patterns, effective team collaboration to achieve common goals, the use of a variety of technologies and databases to create robust and efficient applications, and significant maturation as a developer, enhancing my technical skills and problem-solving abilities.",
+    "startDate-integrade": "July 2023",
+    "endDate-integrade": "Present",
+    "role-informaker": "TypeScript Developer",
+    "description-informaker": "At Informaker, I've had the honor of playing a crucial role in advancing and refining various applications. My expertise spans a broad spectrum of technologies, with a focus on TypeScript, React, Prisma, PostgreSQL, and other relevant libraries. In my day-to-day work, I'm responsible for introducing new features and solving problems, always keeping a focus on the mentioned technologies.",
+    "startDate-informaker": "February 2023",
+    "endDate-informaker": "Present"
+  },
+  "education-section": {
+    "title": "Education"
+  }
+}
