@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio (new)
 
-## Getting Started
+O meu portfólio contém informações de expêriencias, projetos, tecnologias e contato. Foi um projeto desafiador e muito interessante de se construir.
 
-First, run the development server:
+## 🚀 Começando
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+
+### 📋 Pré-requisitos
+
+Do que você precisa para instalar o software?
+
+```
+NPM - Gerenciador de pacotes
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🔧 Instalação
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Para instalar, siga os passos abaixo:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. No terminal, execute:
 
-## Learn More
+```
+npm install
+```
 
-To learn more about Next.js, take a look at the following resources:
+2. Inicie a aplicação:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+npm run dev
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+assim seu projeto estará pronto e rodando no endereço:
 
-## Deploy on Vercel
+```
+http://localhost:3000
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠️ Construído com
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [i18n](https://nextjs.org/docs/pages/building-your-application/routing/internationalization)
+- [Shadcnui](https://github.com/shadcnui)
+
+## ✒️ Autores
+
+- **Matheus Borges** - [Linkedin](https://www.linkedin.com/in/matheus-borges-4a7469239/)
+
+---
+
+⌨️ com ❤️ por [BorgesCode](https://github.com/Borgeta-code) 😊
